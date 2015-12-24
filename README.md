@@ -85,3 +85,6 @@ https://github.com/Roklion/Developing_Data_Products
 
 The app is also deployed online at 
 https://roklion.shinyapps.io/Developing_Data_Products
+
+Presentation of this app is published on RPubs at
+http://rpubs.com/Roklion/PDS_pitch
